@@ -32,7 +32,7 @@ footer {
   text-align: center;
 }
 
-.paraghraph-container {
+#paraghraph-container {
   border-style: solid;
   border-width: 2px;
   border-radius: 1em;
