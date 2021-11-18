@@ -100,3 +100,19 @@ footer {
 .rule-item-container {
   padding: 20px;
 }
+
+table {
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+th {
+  border: 1px solid black;
+  border-radius: 4px;
+}
+td {
+  border: 1px solid black;
+  border-radius: 4px;
+}
